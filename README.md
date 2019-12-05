@@ -41,6 +41,8 @@ As a Software Architect, I will be in service to you
 * I want to maximise the amount of Work Not Done. 
     * This means staying focused on the work that matters
     * This is because I hate Busy Work, being busy != being productive
+* I often focus on preventing software (see above).
+* You can do 1 thing well, or a few things poorly. I defend the law of WIP.
 * Complexity is the primary force that undoes us as Software Practioners, and I intend to remove it.
 * We are all learning over time. A sound Software Architecture should welcome change and limit the cost of reversions or corrections for delivery teams as we learn.
 
