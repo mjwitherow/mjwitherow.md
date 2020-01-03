@@ -3,9 +3,9 @@ G'day :wave: :tada:
 You’re here because chances are, we work together now!
 
 > :memo: **Disclaimer**   
-> People are an ever changing complex mashup of flaws, biases and preferences.  
-A README for a human is kinda borked from the outset, my aim here is only lo-fi info.  
-This doc is an addition to, not a substitute for, us having a chat together. :coffee:
+> People are an ever changing complex mashup of quirks, biases and preferences.  
+A README for a human is pretty much immediate legacy, so my aim here is only lo-fi info.  
+This doc is an addition to, not a substitute for, us having a chat together. :coffee: / :beer:
 
 - [Why does this exist?](#why)  
 - [My Role](#my-role)
@@ -41,10 +41,11 @@ As a Software Architect, I will be in service to you
 * I want to maximise the amount of Work Not Done. 
     * This means staying focused on the work that matters
     * This is because I hate Busy Work, being busy != being productive
-* I often focus on preventing software (see above).
+* I often focus on "Preventing Software" (see above).
 * You can do 1 thing well, or a few things poorly. I defend the law of WIP.
-* Complexity is the primary force that undoes us as Software Practioners, and I intend to remove it.
+* Complexity is the primary force that undoes us as Software Practioners, and I love to remove it.
 * We are all learning over time. A sound Software Architecture should welcome change and limit the cost of reversions or corrections for delivery teams as we learn.
+* A cohesive technical landscape enables a homogeneous product, the two are symboitic.
 
 ### Contacting Me
 
@@ -52,7 +53,9 @@ As a Software Architect, I will be in service to you
 
 I’m most responsive on Slack and I don’t mind a big novel being dumped into a DM.  
 If it’s important, needs a face-to-face conclusion or is for a date some time away - best email me that content and book my calendar at the same time.  
-If it feels like we’re having trouble communicating I will always tend towards "let's chat face to face” - that’s my preference.  
+If it feels like we’re having trouble communicating I will always tend towards "let's chat face to face” - that’s my preference.
+My speech can get a bit 'aussie', please remind me if I'm speaking nonesense.
+If you speak Japanese or Sweedish please teach me more!
 
 ### My Day
 
@@ -74,7 +77,7 @@ I prefer to do a 1-on-1 in person, so if you need to work from home please let m
 
 ### Feedback
 
-I make mistakes, sometimes at great speed and volume!  
+I make mistakes, that's the price of entry.  
 It’s because I want to improve, which is why I highly value your feedback.   
 I understand giving feedback can be difficult. I’m happy for you to give feedback in whatever form makes you comfortable (even anonymously via my manager), however I prefer in-person feedback, because it allows me to get context and confirm I take away the right stuff.
 
@@ -90,24 +93,28 @@ I understand giving feedback can be difficult. I’m happy for you to give feedb
 - I have (amoung many others) a bias to execute. DO IT, DO IT NOW! 
 - I enjoy clearly stated or decided language. An honest attempt at clarity in my own writing has been felt as 'cold' before, I'm working on that.
 - Please don't confuse my quiet mid-distance stare with a lack of engagement, I'm just thinking.
-- I'm a 'Late Game' player. It takes me a little longer to get my momentum.
 - I have a poor memory. You might notice I’m always carrying a notebook. I like to take lots of notes, it helps me remember. 
     - Please don’t be concerned if I’m scribbling madly when we talk, I’m listening very carefully.
-- I often greet people with a fist bump. I started doing it factiously ten years ago and now I can’t stop.
+- I might greet you with a fist bump. I started doing it factiously ten years ago and now I can’t stop.
+- Pressing "100" on a microwave is the same as pressing "60" but pressing "101" goes for 1m 41s and no matter how many letters I write to Russle Hobbes this continues.
+- BBQ shapes don't taste like anything I've ever cooked on a BBQ or even any of the units Bunnings had on display but again, Arnotts don't reply to my mail.
 
 ### My Interests
 
-##### Mentorship and Education
+:-------------------------:|:-------------------------:|:-------------------------:
+![](a.png)  |  ![](b.png) | ![](b.png)
+![](d.png)  |  ![](e.png) | ![](f.png)
 
-:rocket: I've benefited enourmously from strong mentor relationships in my career, and I feel compelled to pass it on.  
-I want to leave this industry in a better state than how i found it, and supporting a mentorship culture has been pretty effective.
+
+###### Mentorship and Education
+
+:rocket: I've benefited enourmously from mentor relationships in my career, and I feel compelled to help others have the same.
+I want to leave this industry in a better state than how i found it, and supporting a mentorship culture has been a pretty effective way of doing that.
 
 I have a particular passion for education  
-- I’ve worked with primary schools & secondary schools to run STEM workshops, weekend programmes and speaking events.
+- I’ve worked with primary schools & secondary schools to run STEM workshops, holiday programmes and speaking events.
 - I’ve been a Course Leader & Lecturer at Australian Universities.
 - I’ve presented internationally beside Google, Facebook and Dropbox on the topic of Mentoring.
-- I’ve been a mentor in the industry to many wonderful people, most of them women. From 20-something graduates to mature age career changers.
-- Involved in a number of Melbourne based Graduate Programmes
-
-I'm always looking to add to this list, let me know if i can help you out.
-
+- I’ve been a mentor in the industry to many wonderful people, most of them women.  
+From 20-something graduates to mature age career changers.
+- I've been Involved in a number of Melbourne Graduate Programmes
