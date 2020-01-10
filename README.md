@@ -103,15 +103,16 @@ I understand giving feedback can be difficult. I’m happy for you to give feedb
 
 #### The Outdoors
 
-| Example                  |  Outputs                 |
+| Being                  |  Outdoors                 |
 :-------------------------:|:-------------------------:
 ![](img/outdoors1.jpg)  |  ![](img/outdoors2.jpg) | ![](img/outdoors3.jpg)
 ![](img/outdoors4.jpg)  |  ![](img/outdoors5.jpg) | ![](img/outdoors6.jpg)
 
 #### Cheese
 
-:-------------------------:|: -------------------------:|:-------------------------:
-![](img/cheese1.jpg)  |  ![](img/cheese2.jpg) | ![](img/cheese3.jpg)
+| Eating                  |  Cheese                 |
+:-------------------------:|:-------------------------:
+![](img/cheese1.jpg)  |   ![](img/cheese3.jpg)
 
 #### Mentorship and Education
 
