@@ -101,12 +101,19 @@ I understand giving feedback can be difficult. I’m happy for you to give feedb
 
 ### My Interests
 
-:-------------------------:|:-------------------------:|:-------------------------:
-![](a.png)  |  ![](b.png) | ![](b.png)
-![](d.png)  |  ![](e.png) | ![](f.png)
+#### The Outdoors
 
+| Example                  |  Outputs                 |
+:-------------------------:|:-------------------------:
+![](img/outdoors1.jpg)  |  ![](img/outdoors2.jpg) | ![](img/outdoors3.jpg)
+![](img/outdoors4.jpg)  |  ![](img/outdoors5.jpg) | ![](img/outdoors6.jpg)
 
-###### Mentorship and Education
+#### Cheese
+
+:-------------------------:|: -------------------------:|:-------------------------:
+![](img/cheese1.jpg)  |  ![](img/cheese2.jpg) | ![](img/cheese3.jpg)
+
+#### Mentorship and Education
 
 :rocket: I've benefited enourmously from mentor relationships in my career, and I feel compelled to help others have the same.
 I want to leave this industry in a better state than how i found it, and supporting a mentorship culture has been a pretty effective way of doing that.
