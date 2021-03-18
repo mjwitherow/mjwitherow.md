@@ -73,7 +73,6 @@ I generally encourage shorter, more frequent catchups.
 
 When we have a 1-on-1, they are for you.  
 Without an agenda I might ask you "What sucks?" - this often unpacks what you feel is succeeding, what isn't, and how I can help.  
-I prefer to do a 1-on-1 in person, so if you need to work from home please let me know so we can reschedule.
 
 ### Feedback
 
@@ -90,14 +89,15 @@ I understand giving feedback can be difficult. I’m happy for you to give feedb
 
 ### My Quirks
 
-- I have (amoung many others) a bias to execute. DO IT, DO IT NOW! 
+- I have (amoung many others) a bias to execute. DO IT, DO IT NOW!
+- I like to be direct and like people who are direct with me.
 - I enjoy clearly stated or decided language. An honest attempt at clarity in my own writing has been felt as 'cold' before, I'm working on that.
 - Please don't confuse my quiet mid-distance stare with a lack of engagement, I'm just thinking.
 - I have a poor memory. You might notice I’m always carrying a notebook. I like to take lots of notes, it helps me remember. 
     - Please don’t be concerned if I’m scribbling madly when we talk, I’m listening very carefully.
 - I might greet you with a fist bump. I started doing it factiously ten years ago and now I can’t stop.
 - Pressing "100" on a microwave is the same as pressing "60" but pressing "101" goes for 1m 41s and no matter how many letters I write to Russle Hobbes this continues.
-- BBQ shapes don't taste like anything I've ever cooked on a BBQ or even any of the units Bunnings had on display but again, Arnotts don't reply to my mail.
+- BBQ shapes don't taste like anything I've ever cooked on a BBQ or even any of the units I licked on display at Bunnings but again, Arnotts don't reply to my mail.
 
 ### My Interests
 
